@@ -1,24 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>dkeeper</title>
-    <base href="/" />
-    <link rel="icon" href="favicon.ico" />
-    <link type="text/css" rel="stylesheet" href="main.css" />
-  </head>
+    <title>Keeper App</title>
+    <link font-family: "Montserrat", sans-serif;
+    href="https://fonts.googleapis.com/css?family=McLaren|Montserrat&display=swap"
+    rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  	<link id="external-css" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat&amp;display=swap" media="all">
+</head>
+
   <body>
-    <main>
-      <img src="logo2.svg" alt="DFINITY logo" />
-      <br />
-      <br />
-      <form action="#">
-        <label for="name">Enter your name: &nbsp;</label>
-        <input id="name" alt="Name" type="text" />
-        <button type="submit">Click Me!</button>
-      </form>
-      <section id="greeting"></section>
-    </main>
+    <div id="root"></div>
+    <script src="../src/index.js" type="text/jsx"></script>
   </body>
 </html>
