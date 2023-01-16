@@ -2,6 +2,13 @@
 <a href="https://github.com/Nareshchoudhary02"><img align="center" width="100%" src="https://i.ibb.co/bgGT4Xx/Screenshot-2023-01-16-at-5-16-50-PM.png" alt="google_keeper" border="0"></a>
 <h4 align="center"> 🧑🏻‍💻 Motoko Language (Internet Computer) </h4>
 
+<ul>
+<li>HTML  CSS  Javascript </li>
+<li>React JS</li>
+<li>Motoku</li>
+<li>npm Node modules like: material UI, etc</li>
+</ul>
+
 Welcome to your new dkeeper project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
