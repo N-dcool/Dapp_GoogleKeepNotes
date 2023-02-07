@@ -3,7 +3,7 @@
 - This repository contains a blockchain-based decentralized version of Google Keep using Motoko language.
 - The project utilizes the power of the Internet Computer to create a secure and tamper-proof platform for storing and sharing notes.
 
-<a href="https://github.com/Nareshchoudhary02"><img align="center" width="100%" src="https://i.ibb.co/bgGT4Xx/Screenshot-2023-01-16-at-5-16-50-PM.png" alt="google_keeper" border="0"></a>
+<a href="https://github.com/Nareshchoudhary02"><img align="center" width="100%" src="https://cdn.discordapp.com/attachments/1071312646562914396/1072578891992019034/nareshDKeeper.png" alt="google_keeper" border="0"></a>
 <h4 align="center"> 🧑🏻‍💻 Motoko Language (Internet Computer) </h4>
 
 <ul>
